@@ -1,0 +1,11 @@
+course_a,course_b,mean_difference,p_value
+Tableau Fundamentals,Python for Beginners,-0.629999999999999,0.7112740549324092
+Tableau Fundamentals,SQL Basics,0.745000000000001,0.6576898762757698
+Tableau Fundamentals,Statistics 101,-0.8030769230769224,0.7158841845287145
+Tableau Fundamentals,Intro to Analytics,-1.308571428571426,0.5153762967220904
+Python for Beginners,SQL Basics,1.375,0.3411691302580374
+Python for Beginners,Statistics 101,-0.17307692307692335,0.9255287174059799
+Python for Beginners,Intro to Analytics,-0.678571428571427,0.6786201827615106
+SQL Basics,Statistics 101,-1.5480769230769234,0.3956943563551071
+SQL Basics,Intro to Analytics,-2.053571428571427,0.20317638263430565
+Statistics 101,Intro to Analytics,-0.5054945054945037,0.8017051974663447
